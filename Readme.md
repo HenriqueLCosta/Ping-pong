@@ -1,1 +1,0 @@
-Projeto Ping Version 0.1
